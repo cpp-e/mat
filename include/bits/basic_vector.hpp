@@ -31,7 +31,7 @@
 #endif
 
 #define ROW_VECTOR			0
-#define COLUMN_VECTOR		1
+#define COLUMN_VECTOR			1
 
 #ifdef CPPE_DIRECTX
 #define DEFAULT_DIRECTION	ROW_VECTOR
